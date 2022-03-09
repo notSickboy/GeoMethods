@@ -76,7 +76,7 @@ class RecyclerViewAdapter : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>
                 val intent = Intent(v.context,Faq::class.java)
                 v.context.startActivity(intent)
 
-                Toast.makeText(v.context, "Clickeaste en el item 4", Toast.LENGTH_SHORT).show()
+               // Toast.makeText(v.context, "Clickeaste en el item 4", Toast.LENGTH_SHORT).show()
 
             }
 
