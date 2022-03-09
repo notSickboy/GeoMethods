@@ -17,7 +17,7 @@ class RecyclerViewAdapter : RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>
         "Procesamiento de datos gravimétricos",
         "Procesamiento de datos magnetométricos",
         "Calculadora de correcciones",
-        "Manual de usuario"
+        "Acerca de"
     )
     private val itemDetails = arrayOf(
         "La filtración de los efectos indeseables de la gravedad medida comienza el procesado de los datos gravimétricos.",
