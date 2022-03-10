@@ -1,12 +1,37 @@
-# 🌍 GeoMethods
+# 🌍 Descargar GeoMethods
 
-Para descargar la aplicación baja la versión 1.0.1 desde el link:
+### Para descargar la aplicación accede a la ***versión 1.0.1*** desde el link:
+>https://cutt.ly/0AOWbKx
 
-https://cutt.ly/0AOWbKx
+# 💻 Archivo para ejemplos en Excel
 
-# 💻 Compilar
+## 🌐 Gravimetría
 
-Para compilar en Android Studio solo importa el código y ábrelo como un proyecto nuevo, el código es totalmente implementado en Python.
+### Datos Crudos
+
+Click para descargar desde Mediafire el archivo con los datos crudos sin correcciones:
+https://cutt.ly/kAAeG7S
+
+### Datos Resueltos
+
+Click para descargar desde Mediafire el archivo con el ejercicio resuelto:
+https://cutt.ly/qAAwO9M
+
+## 🧲 Magnetometría
+
+### Datos Crudos
+
+Click para descargar desde Mediafire el archivo con los datos crudos sin correcciones:
+https://cutt.ly/0AAtpEw
+
+### Datos Resueltos
+
+Click para descargar desde Mediafire el archivo con el ejercicio resuelto:
+https://cutt.ly/hAArre4
+
+# 🚀 Compilar
+
+Para compilar desde cero en Android Studio solo importa el código y ábrelo como un proyecto nuevo.
 
 # 🧮 Acerca de la calculadora de interpolación espacial
 
