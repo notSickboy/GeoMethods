@@ -35,4 +35,4 @@ Para compilar desde cero en Android Studio solo importa el código y ábrelo com
 
 # 🧮 Acerca de la calculadora de interpolación espacial
 
-El proyecto está abierto a cambios, se actualizará constantemente por lo que si tienes algo con lo qué ayudar, ¡es bien recibido! :)
+El proyecto está abierto a cambios, por lo que si tienes algo con lo qué ayudar, ¡es bien recibido! :)
